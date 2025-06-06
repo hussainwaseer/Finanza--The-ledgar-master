@@ -3,6 +3,12 @@
 **Finanza** is a lightweight yet powerful Java-based desktop application designed to simplify personal and small-business finance management. With an intuitive interface and modular design, Finanza empowers users to manage transactions, accounts, and financial summaries with ease.
 
 ---
+## 🔽 Download
+
+Click the link below to download the executable:
+
+[Download App (.exe)]([https://github.com/username/repo-name/releases/download/v1.0/yourfile.exe](https://drive.google.com/file/d/1ccssBXX8kJtHWwCDS0Iat5uTYQ4RQ-1W/view?usp=sharing))
+
 
 ## 🌟 Features
 
