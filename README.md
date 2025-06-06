@@ -39,28 +39,28 @@
 ## 🖼️ Screenshots
 
 ### 📊 Splash Screen
-<img src="images/SplashScreen.png" alt="Splash Screen Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SplashScreen.png" alt="Splash Screen Screenshot" width="400" height="400"/>
 
 
 ### 📊 Create Account
-<img src="images/CreateAccount.png" alt="Create Account Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CreateAccount.png" alt="Create Account Screenshot" width="400" height="400"/>
 
 ### 📊 Login
-<img src="images/Login.png" alt="Login Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Login.png" alt="Login Screenshot" width="400" height="400"/>
 
 ### 📊 Dashboard
-<img src="images/Dashboard.png" alt="Dashboard Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard.png" alt="Dashboard Screenshot" width="400" height="400"/>
 
 
 ### 📊 Transactions
-<img src="images/Transactions.png" alt="Transactions Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Transaction.png" alt="Transactions Screenshot" width="400" height="400"/>
 
 
 ### 📊 Accounts
-<img src="images/Accounts.png" alt="Accounts Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Accounts.png" alt="Accounts Screenshot" width="400" height="400"/>
 
 ### 📊 Bank Statement
-<img src="images/FinanzaStatement.png" alt="Finanza Statement Screenshot" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/FinanzaStatement.png" alt="Finanza Statement Screenshot" width="400" height="400"/>
 
 
 
