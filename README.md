@@ -7,7 +7,9 @@
 
 Click the link below to download the executable:
 
-[Download App (.exe)]([https://github.com/username/repo-name/releases/download/v1.0/yourfile.exe](https://drive.google.com/file/d/1ccssBXX8kJtHWwCDS0Iat5uTYQ4RQ-1W/view?usp=sharing))
+[![Download](images/download.jpe)]([![Download](https://img.shields.io/badge/Download-EXE-blue.svg)](https://github.com/username/repo-name/releases/download/v1.0/yourfile.exe)
+)
+
 
 
 ## 🌟 Features
