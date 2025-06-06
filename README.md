@@ -7,7 +7,7 @@
 
 Click the link below to download the executable:
 
-[![Download](images/download.jpe)]([![Download](https://img.shields.io/badge/Download-EXE-blue.svg)](https://github.com/username/repo-name/releases/download/v1.0/yourfile.exe)
+[![Download](images/download.jpeg)]([![Download](https://img.shields.io/badge/Download-EXE-blue.svg)](https://github.com/username/repo-name/releases/download/v1.0/yourfile.exe)
 )
 
 
