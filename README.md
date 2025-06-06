@@ -5,7 +5,7 @@
 ---
 ## 🔽 Download
 
-Click the link below to download the executable:
+Click the link below to download the .exe file:
 
 [![Download](images/download.jpeg)](https://drive.google.com/file/d/1ccssBXX8kJtHWwCDS0Iat5uTYQ4RQ-1W/view?usp=drive_link)
 
