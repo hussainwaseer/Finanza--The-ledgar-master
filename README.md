@@ -7,7 +7,7 @@
 
 Click the link below to download the .exe file:
 
-[![Download](images/download.jpeg)](https://drive.google.com/file/d/1ccssBXX8kJtHWwCDS0Iat5uTYQ4RQ-1W/view?usp=drive_link)
+[![Download](images/download.jpeg)](https://drive.google.com/file/d/1uiejS3xxtZdOQ_vz3_y_yEn1--_CdCqR/view?usp=drive_link)
 
 
 
