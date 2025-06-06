@@ -39,25 +39,28 @@
 ## 🖼️ Screenshots
 
 ### 📊 Splash Screen
-![Splash Screen Screenshot](images/SplashScreen.png)
+<img src="images/SplashScreen.png" alt="Splash Screen Screenshot" width="100" height="100"/>
+
 
 ### 📊 Create Account
-![Create Account Screenshot](images/CreateAccount.png)
+<img src="images/CreateAccount.png" alt="Create Account Screenshot" width="100" height="100"/>
 
 ### 📊 Login
-![Login Screenshot](images/Login.png)
+<img src="images/Login.png" alt="Login Screenshot" width="100" height="100"/>
 
 ### 📊 Dashboard
-![Dashboard Screenshot](images/Dashboard.png)
+<img src="images/Dashboard.png" alt="Dashboard Screenshot" width="100" height="100"/>
+
 
 ### 📊 Transactions
-![Transactions Screenshot](images/Transactions.png)
+<img src="images/Transactions.png" alt="Transactions Screenshot" width="100" height="100"/>
+
 
 ### 📊 Accounts
-![Accounts Screenshot](images/Accounts.png)
+<img src="images/Accounts.png" alt="Accounts Screenshot" width="100" height="100"/>
 
 ### 📊 Bank Statement
-![Finanza Statement Screenshot](images/FinanzaStatement.png)
+<img src="images/FinanzaStatement.png" alt="Finanza Statement Screenshot" width="100" height="100"/>
 
 
 
